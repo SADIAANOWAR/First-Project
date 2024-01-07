@@ -7,6 +7,7 @@ public class Test2 {
 		
 		System.out.println("We are learning Git and GitHub through Eclipse.");
 		System.out.println("We had our initial commit.");
+		System.out.println("We are learning automation engineering");
 	}
 
 }
